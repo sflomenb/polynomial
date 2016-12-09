@@ -7,7 +7,8 @@ This is a polynomial addition program. The executable will consumes two filename
 3 1 0 2 plus 5 1 0 0 1 2 --> 5 1 0 1 1 4
 
 ## How to Run
-Simply execute `make`
+1. Execute `make`
+2. `./poly`
 
 ## Authors
 Sam Flomenberg, Tongming Li, Yifeng Liu
