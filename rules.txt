@@ -1,0 +1,9 @@
+line 18: STR50
+line 23: MEM52
+line 28: STR06 and STR51
+line 34: MEM50
+line 35: MEM51
+line 51: rule 4 integer
+line 61: STR53
+MEM55: We didn't  have a custom dynamic memory allocation.
+
